@@ -58,3 +58,9 @@ Focado em **Desenvolvimento de Software**, com experiência em **Docker**, **Git
 
 **Obrigado por visitar meu perfil!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs Up" width="25" height="25" />
 
+
+## 🐐 **Minha Atividade no GitHub**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WallysonCR&bg_color=000000&color=ffffff&line=4e7d02&point=4e7d02&area=true&hide_border=true" width="100%" />
+</div>
