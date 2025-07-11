@@ -9,58 +9,72 @@
 
 ##
 
-**Estudante de Sistemas de Informação** no **IFC - Campus Crato** | **Técnico em Informática**  
-Focado em **Desenvolvimento de Software**, com experiência em **Docker**, **Git**, **bancos de dados relacionais**, e linguagens como **Java**, **PHP**, **Python** e **C**.
-
----
-
-### 🛠️ **Tecnologias e Ferramentas**
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,mysql,postgres,linux,fedora,redhat,vscode,eclipse,idea,java,python,php,c,docker,git,spring,virtualbox,obsidian" />
-</p>
-
----
-
-## 📊 **GitHub Stats**
-
-<div align="center" style="display: flex; justify-content: space-between; width: 90%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=WallysonCR&show_icons=true&count_private=true&hide_title=true&theme=dark&hide=prs&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WallysonCR&theme=dark&border_radius=10" width="48%" />
-</div>
-
----
-
-## 🗣️ **Linguagens Usadas**
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallysonCR&langs_count=10&theme=dark&hide_title=true&layout=compact" width="80%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
 </div>
 
----
+<img align="center" alt="" src="https://your-banner-image-link-here.com/banner.gif">
 
-## 🌱 **Atualmente Estudando**
+#
 
-- **Padrões de projeto** (design patterns)
-- **Docker & Git**
-- **Algoritmos e Estruturas de Dados**
-- **Desenvolvimento Full-Stack**
+<p align="center">Estudante de Sistemas de Informação no Instituto Federal do Ceará - Campus Crato.  
+Atualmente focado em **Desenvolvimento de Software**, **Spring Boot**, **Docker**, **Git**, e **Bancos de Dados Relacionais**. Sempre em busca de novos conhecimentos e desafios.  
+Passionado por aprender e aplicar a tecnologia para resolver problemas reais.
 
----
+#
 
-## 📚 **Projetos**
+<img align="right" alt="" height="190px" src="https://your-study-gif-link-here.com/study.gif">
 
-- [Algoritmos e Estruturas de Dados](https://github.com/WallysonCR/algoritmos)
-- [Docker Compose Setup](https://github.com/WallysonCR/docker-compose)
-- [Projetos Diversos](https://github.com/WallysonCR)
+<h3 align="left">Conecte-se comigo!</h3>
 
----
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:seu-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/seu-linkedin)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6&color:FFF)](https://github.com/WallysonCR)
 
-**Obrigado por visitar meu perfil!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs Up" width="25" height="25" />
+<h3 align="left">Minha Stack ~</h3>
 
-
-## 🐐 **Minha Atividade no GitHub**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WallysonCR&bg_color=000000&color=ffffff&line=4e7d02&point=4e7d02&area=true&hide_border=true" width="100%" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="25" alt="spring logo" />
+          
+          
 </div>
+
+#
+
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WallysonCR&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/WallysonCR/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WallysonCR&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WallysonCR/WallysonCR/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WallysonCR/WallysonCR/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WallysonCR/WallysonCR/output/github-contribution-grid-snake.svg">
+</picture>
