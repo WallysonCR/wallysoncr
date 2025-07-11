@@ -20,7 +20,7 @@
 #
 
 <p align="center">Estudante de Sistemas de Informação no Instituto Federal do Ceará - Campus Crato.  
-Atualmente focado em **Desenvolvimento de Software**, **Spring Boot**, **Docker**, **Git**, e **Bancos de Dados Relacionais**. Sempre em busca de novos conhecimentos e desafios.  
+Atualmente focado em <b>Desenvolvimento de Software</b>, <b>Spring Boot</b>, <b>Docker</b>, <b>Git</b>, e <b>Bancos de Dados Relacionais</b>. Sempre em busca de novos conhecimentos e desafios.  
 Passionado por aprender e aplicar a tecnologia para resolver problemas reais.
 
 #
