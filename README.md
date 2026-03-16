@@ -87,7 +87,7 @@ Aqui estão alguns dados sobre a minha atividade no GitHub:
 - **Contribuições**: Foco no desenvolvimento de ferramentas e projetos pessoais.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WallysonCR&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallysonCR&langs_count=8&layout=donut&theme=dark&count_private=true" />
 </div>
 
 ##
