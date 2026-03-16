@@ -87,15 +87,11 @@ Aqui estão alguns dados sobre a minha atividade no GitHub:
 - **Contribuições**: Foco no desenvolvimento de ferramentas e projetos pessoais.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallysonCR&langs_count=8&layout=donut&theme=dark&count_private=true" />
-</div>
-
-##
-
-## 📊 Linguagens Mais Usadas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallysonCR&langs_count=8&layout=donut&theme=dark&hide=html,scss,less" alt="Most used languages" />
+  <!-- Card principal com estatísticas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=WallysonCR&show_icons=true&theme=dark&count_private=true" height="180"/>
+  
+  <!-- Card de linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallysonCR&langs_count=8&layout=donut&theme=dark&hide=html,scss,less" height="180"/>
 </div>
 
 ##
