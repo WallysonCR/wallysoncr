@@ -91,7 +91,7 @@ Aqui estão alguns dados sobre a minha atividade no GitHub:
   <img src="https://github-readme-stats.vercel.app/api?username=WallysonCR&show_icons=true&theme=dark&count_private=true" height="180"/>
   
   <!-- Card de linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallysonCR&langs_count=8&layout=donut&theme=dark&hide=html,scss,less" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallysonCR&langs_count=8&layout=donut&theme=dark" height="180"/>
 </div>
 
 ##
