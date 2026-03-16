@@ -96,3 +96,4 @@ Aqui estão alguns dados sobre a minha atividade no GitHub:
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WallysonCR/WallysonCR/output/github-contribution-grid-snake.svg">
 </picture>
 
+![WallysonCR GitHub Activity](https://github.com/WallysonCR/github-readme-activity-graph/blob/main/output/github-activity.svg)
