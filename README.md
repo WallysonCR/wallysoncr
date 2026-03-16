@@ -74,9 +74,6 @@ Aqui estão algumas formas de entrar em contato ou acompanhar meu trabalho:
 - **E-mail**: [wallyson.dev@hotmail.com](mailto:wallyson.dev@hotmail.com)
 - **LinkedIn**: [Wallyson no LinkedIn](https://www.linkedin.com/in/seu-linkedin)
 - **GitHub**: [Wallyson no GitHub](https://github.com/WallysonCR)
-<!--- **Twitter**: [@seu-twitter](https://twitter.com/seu-twitter)
-- **Dev.to**: [@seu-devto](https://dev.to/seu-devto)
--->
 ##
 
 ## 📊 GitHub Stats
@@ -85,6 +82,8 @@ Aqui estão alguns dados sobre a minha atividade no GitHub:
 
 - **Repositórios públicos**: 2
 - **Contribuições**: Foco no desenvolvimento de ferramentas e projetos pessoais.
+
+<div>![WallysonCR GitHub stats](https://github-readme-stats.vercel.app/api?username=WallysonCR&show_icons=true&theme=transparent)</div>
 
 
 ##
