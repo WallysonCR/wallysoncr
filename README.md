@@ -1,28 +1,27 @@
-![GitHub Header Image](https://github.com/WallysonCR/wallysoncr/blob/main/img/github-header-image.png)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
-
-##
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Wallyson%20Santos&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Software%20Developer&descAlignY=56"
+  />
+</p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=+Bem-vindo+ao+meu+perfil!+" alt="Typing SVG">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=560&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack;Arquitetura+%E2%80%A2+Backend+%E2%80%A2+Frontend"
+      alt="Typing SVG"
+    />
   </a>
 </div>
 
-#
-
-# Sobre Mim 👨‍💻
+# Sobre Mim
 Olá! Sou **Wallyson**, estudante de **Sistemas de Informação** no Instituto Federal do Ceará - Campus Crato. Tenho uma grande paixão por resolver problemas através da tecnologia e estou sempre em busca de desafios que me permitam aprender e crescer. Meu foco está no desenvolvimento de software, mas também tenho interesse em infraestrutura e inovação.
 
 Ao longo da minha trajetória acadêmica e profissional, tenho me dedicado ao aprimoramento das minhas habilidades em diversas linguagens e tecnologias.
 
 ##
 
-## 🚀 Minha Stack de Tecnologias
+## Minha Stack de Tecnologias
 
 Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
 
@@ -57,7 +56,7 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
 
 ##
 
-## 💼 Projetos
+## Projetos
 
 Aqui estão alguns dos meus projetos mais recentes:
 <!--
@@ -67,7 +66,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 -->
 ##
 
-## 📫 Conecte-se Comigo!
+## Conecte-se Comigo!
 
 Aqui estão algumas formas de entrar em contato ou acompanhar meu trabalho:
 
@@ -76,7 +75,7 @@ Aqui estão algumas formas de entrar em contato ou acompanhar meu trabalho:
 - **GitHub**: [Wallyson no GitHub](https://github.com/WallysonCR)
 ##
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 Aqui estão alguns dados sobre a minha atividade no GitHub:
 
@@ -88,7 +87,7 @@ Aqui estão alguns dados sobre a minha atividade no GitHub:
 
 ##
 
-## 🐍 Contribuições no GitHub
+## Contribuições no GitHub
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WallysonCR/WallysonCR/output/github-contribution-grid-snake-dark.svg">
@@ -97,3 +96,11 @@ Aqui estão alguns dados sobre a minha atividade no GitHub:
 </picture>
 
 ![WallysonCR GitHub Activity](https://github.com/WallysonCR/github-readme-activity-graph/blob/main/output/github-activity.svg)
+
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=80&color=2563EB&section=footer&reversal=false"
+  />
+</p>
