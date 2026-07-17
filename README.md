@@ -77,7 +77,7 @@ Gosto de compreender como as diferentes partes de um sistema se conectam, desde 
 
 <p align="center">
   <a href="https://linkedin.com/in/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:seu.email@provedor.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:wallyson.dev@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 
