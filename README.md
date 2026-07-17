@@ -14,88 +14,82 @@
   </a>
 </div>
 
-# Sobre Mim
-Olá! Sou **Wallyson**, estudante de **Sistemas de Informação** no Instituto Federal do Ceará - Campus Crato. Tenho uma grande paixão por resolver problemas através da tecnologia e estou sempre em busca de desafios que me permitam aprender e crescer. Meu foco está no desenvolvimento de software, mas também tenho interesse em infraestrutura e inovação.
 
-Ao longo da minha trajetória acadêmica e profissional, tenho me dedicado ao aprimoramento das minhas habilidades em diversas linguagens e tecnologias.
 
-##
+## Sobre Mim
 
-## Minha Stack de Tecnologias
+Sou estudante de Bacharelado em Sistemas de Informação pelo IFCE - Campus Crato.
 
-Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
+Meu foco está no desenvolvimento de software e na infraestrutura que sustenta essas aplicações. Tenho estudado desde fundamentos da computação, como estruturas de dados e POO, até desenvolvimento Web, bancos de dados, Docker, redes e sistemas Linux.
 
-- **Java**: Desenvolvimento de sistemas robustos e escaláveis.
-- **Python**: Automação, análise de dados e desenvolvimento de scripts.
-- **PHP**: Desenvolvimento back-end e integração de APIs.
-- **C**: Programação de sistemas de baixo nível e otimização de código.
-- **MySQL** e **PostgreSQL**: Bancos de dados relacionais.
-- **Docker**: Containerização de aplicações para facilitar o desenvolvimento e a implantação.
-- **Git**: Controle de versão e colaboração em projetos de software.
-- **Spring**: Framework para desenvolvimento de aplicações Java.
+Gosto de compreender como as diferentes partes de um sistema se conectam, desde o código até o ambiente onde ele é executado.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="30" alt="spring logo" />
-</div>
+---
 
-##
+## Stack & Ferramentas
 
-## Projetos
+### Linguagens e Frameworks
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-Aqui estão alguns dos meus projetos mais recentes:
-<!--
-- [**Projeto X**](link-do-projeto): Descrição curta do projeto.
-- [**Projeto Y**](link-do-projeto): Descrição curta do projeto.
-- [**Projeto Z**](link-do-projeto): Descrição curta do projeto.
+### Infraestrutura, Bancos e Ferramentas
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-FFFFFF?style=for-the-badge&logo=fedora&logoColor=3C6EB4)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+<!---
+## Projetos em Destaque
+
+### [Nome do Projeto 1](LINK_DO_REPOSITORIO)
+> Descrição breve do projeto. Exemplo: Aplicação desktop desenvolvida em Python com PySide6 para gerenciamento de dados utilizando banco PostgreSQL.
+>
+> **Techs:** Python • PySide6 • PostgreSQL
+
+---
+
+### [Nome do Projeto 2](LINK_DO_REPOSITORIO)
+> API desenvolvida em Java com Spring Boot aplicando padrões de projeto GoF e containerizada com Docker.
+>
+> **Techs:** Java • Spring Boot • Docker • Padrões GoF
+
+---
+
+### [Nome do Projeto 3](LINK_DO_REPOSITORIO)
+> Outro projeto incrível que você desenvolveu.
+>
+> **Techs:** JavaScript • React • Node.js
+
+
+---
 -->
-##
 
-## Conecte-se Comigo!
+## Contato
 
-Aqui estão algumas formas de entrar em contato ou acompanhar meu trabalho:
+<p align="center">
+  <a href="https://linkedin.com/in/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:seu.email@provedor.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
 
-- **E-mail**: [wallyson.dev@hotmail.com](mailto:wallyson.dev@hotmail.com)
-- **LinkedIn**: [Wallyson no LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- **GitHub**: [Wallyson no GitHub](https://github.com/WallysonCR)
-##
-
-## GitHub Stats
-
-Aqui estão alguns dados sobre a minha atividade no GitHub:
-
-- **Repositórios públicos**: 2
-- **Contribuições**: Foco no desenvolvimento de ferramentas e projetos pessoais.
-
-<div>![WallysonCR GitHub stats](https://github-readme-stats.vercel.app/api?username=WallysonCR&show_icons=true&theme=transparent)</div>
-
-
-##
 
 ## Contribuições no GitHub
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WallysonCR/WallysonCR/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WallysonCR/WallysonCR/output/github-contribution-grid-snake.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WallysonCR/WallysonCR/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WallysonCR/WallysonCR/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WallysonCR/WallysonCR/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WallysonCR/WallysonCR/output/github-contribution-grid-snake.svg">
-</picture>
-
-![WallysonCR GitHub Activity](https://github.com/WallysonCR/github-readme-activity-graph/blob/main/output/github-activity.svg)
 
 
 <p align="center">
